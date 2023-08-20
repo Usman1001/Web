@@ -4,7 +4,6 @@ body{
     background-color: #000000;
 	font-family: "Zhi Mang Xing", sans-serif;
 	color: rgba(74,131,220,1) ;
-	align-items: center;
 }
 
 svg {
@@ -32,6 +31,3 @@ svg text {
 }
 .wrapper {background-color: #000000};
 
-.profile{
-	
-}
